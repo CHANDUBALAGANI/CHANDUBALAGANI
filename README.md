@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Chandu%20Balagani&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Python%20%26%20Django%20Developer%20%7C%20AI%20Application%20Builder&descSize=20&descAlignY=64&color=0:7FAF7B,100:4A8FA8" width="100%" alt="Chandu Balagani"/>
+# 👋 Hi, I'm Chandu Balagani
 
-</div>
-
-<div align="center">
+### 🐍 Python & Django Developer | 🤖 AI Application Builder
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=4A8FA8&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Web+Applications;Backend+%7C+PostgreSQL+%7C+AI;Turning+Ideas+Into+Real+Projects;Always+Learning+%26+Improving" alt="Typing SVG"/>
 
-<br><br>
+<br>
 
 <a href="https://github.com/CHANDUBALAGANI">
 <img src="https://img.shields.io/badge/GitHub-CHANDUBALAGANI-181717?style=for-the-badge&logo=github" alt="GitHub"/>
@@ -207,9 +205,12 @@ I'm currently looking for opportunities as a:
 
 <div align="center">
 
-**🐍 Python Developer**  
-**🌐 Django Developer**  
-**⚙️ Backend Developer**  
+**🐍 Python Developer**
+
+**🌐 Django Developer**
+
+**⚙️ Backend Developer**
+
 **💻 Software Engineer**
 
 </div>
@@ -268,11 +269,11 @@ I'm interested in:
 <div align="center">
 
 <a href="https://github.com/CHANDUBALAGANI">
-<img src="https://img.shields.io/badge/GitHub-CHANDUBALAGANI-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-CHANDUBALAGANI-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/chandu-balagani">
-<img src="https://img.shields.io/badge/LinkedIn-Chandu%20Balagani-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Chandu%20Balagani-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 
 </div>
@@ -286,6 +287,3 @@ I'm interested in:
 ⭐ Thanks for visiting my profile!
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7FAF7B,100:4A8FA8" width="100%" alt="Footer"/>
-
