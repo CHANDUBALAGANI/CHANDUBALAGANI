@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7FAF7B,100:4A8FA8&height=220&section=header&text=Chandu%20Balagani&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Python%20%26%20Django%20Developer%20%7C%20AI%20Application%20Builder&descAlignY=62&descSize=20" width="100%" alt="Chandu Balagani"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Chandu%20Balagani&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Python%20%26%20Django%20Developer%20%7C%20AI%20Application%20Builder&descSize=20&descAlignY=64&color=0:7FAF7B,100:4A8FA8" width="100%" alt="Chandu Balagani"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=4A8FA8&center=true&vCenter=true&width=700&lines=Python+%7C+Django+Developer;Building+AI-Powered+Web+Applications;Backend+%7C+PostgreSQL+%7C+AI;Turning+Ideas+Into+Real+Projects" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=4A8FA8&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Web+Applications;Backend+%7C+PostgreSQL+%7C+AI;Turning+Ideas+Into+Real+Projects;Always+Learning+%26+Improving" alt="Typing SVG"/>
 
-<br>
+<br><br>
 
 <a href="https://github.com/CHANDUBALAGANI">
 <img src="https://img.shields.io/badge/GitHub-CHANDUBALAGANI-181717?style=for-the-badge&logo=github" alt="GitHub"/>
@@ -22,7 +22,7 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 I'm a **Computer Science graduate** focused on **Python, Django, backend development, databases, and AI-powered applications**.
 
@@ -122,7 +122,7 @@ The application combines traditional e-commerce functionality with an AI shoppin
 
 ### 🤖 AI Shopping Assistant
 
-Example requests:
+The assistant can understand requests such as:
 
 ```text
 I want a mobile
@@ -162,9 +162,9 @@ Which mobile is under 50000?
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CHANDUBALAGANI&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=CHANDUBALAGANI&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub Statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHANDUBALAGANI&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHANDUBALAGANI&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
 
 </div>
 
@@ -207,13 +207,10 @@ I'm currently looking for opportunities as a:
 
 <div align="center">
 
-`🐍 Python Developer`
-
-`🌐 Django Developer`
-
-`⚙️ Backend Developer`
-
-`💻 Software Engineer`
+**🐍 Python Developer**  
+**🌐 Django Developer**  
+**⚙️ Backend Developer**  
+**💻 Software Engineer**
 
 </div>
 
@@ -249,17 +246,17 @@ I'm interested in:
 <div align="center">
 
 ```text
-        📚 Learn
-          ↓
-        💻 Build
-          ↓
-        🐛 Debug
-          ↓
-        ☁️ Deploy
-          ↓
-        🚀 Improve
-          ↓
-        🔁 Repeat
+📚 Learn
+   ↓
+💻 Build
+   ↓
+🐛 Debug
+   ↓
+☁️ Deploy
+   ↓
+🚀 Improve
+   ↓
+🔁 Repeat
 ```
 
 </div>
@@ -290,4 +287,5 @@ I'm interested in:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7FAF7B,100:4A8FA8&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7FAF7B,100:4A8FA8" width="100%" alt="Footer"/>
+
