@@ -88,7 +88,7 @@ I enjoy building practical applications and exploring how **AI can improve real-
 
 ## AI-Powered E-Commerce Platform
 
-`Django` · `PostgreSQL` · `Groq AI` · `Cloudinary` · `Render`
+`Django` · `PostgreSQL` · `Groq AI` · `Cloudinary` · `Vercel`
 
 </div>
 
