@@ -114,7 +114,7 @@ Checkout, order creation, order history and order details.
 Natural-language product recommendations based on available inventory.
 
 **☁️ Deployment**  
-PostgreSQL database, Cloudinary media storage and Render deployment.
+PostgreSQL database, Cloudinary media storage and Vercel deployment.
 
 ---
 
